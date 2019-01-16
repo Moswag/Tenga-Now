@@ -1,0 +1,213 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:2:1-57:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/42dd3214488beac5fe7bcf0f23ddd473/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/AndroidManifest.xml:17:1-24:12
+MERGED from [com.wang.avi:library:1.0.5] /root/.gradle/caches/transforms-1/files-1.1/library-1.0.5.aar/4bddf1231c5b9bb090077d7f2ada5fce/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.4.0.aar/38f2c55b3df638d32346583c614a684a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/f431e6a3f182da93abae8a83d59166ae/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:palette-v7:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/palette-v7-23.4.0.aar/31917893d60b903d4036d73995a9b4b3/AndroidManifest.xml:17:1-25:12
+MERGED from [ch.acra:acra:4.8.5] /root/.gradle/caches/transforms-1/files-1.1/acra-4.8.5.aar/1367ef06c9651481cdd37a4d3885b349/AndroidManifest.xml:10:6-44:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/6f703912c06043eb7a8e38f910a3c895/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/fe0d13fa798565c26f417c3638c63141/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/98042427ff7f70b764b7de8746b352d3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.volley:volley:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/d2a596f47434167c7d846faa7cce6b50/AndroidManifest.xml:2:1-11:12
+INJECTED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:2:1-57:12
+	package
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml
+		INJECTED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:7:22-63
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:12:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:13:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:14:5-72
+	android:name
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:14:22-69
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:15:22-72
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:16:5-72
+	android:name
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:16:22-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:17:5-69
+	android:name
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:17:22-66
+application
+ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:19:5-55:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/42dd3214488beac5fe7bcf0f23ddd473/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/42dd3214488beac5fe7bcf0f23ddd473/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/f431e6a3f182da93abae8a83d59166ae/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/f431e6a3f182da93abae8a83d59166ae/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/palette-v7-23.4.0.aar/31917893d60b903d4036d73995a9b4b3/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:palette-v7:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/palette-v7-23.4.0.aar/31917893d60b903d4036d73995a9b4b3/AndroidManifest.xml:22:5-23:19
+MERGED from [ch.acra:acra:4.8.5] /root/.gradle/caches/transforms-1/files-1.1/acra-4.8.5.aar/1367ef06c9651481cdd37a4d3885b349/AndroidManifest.xml:39:5-43:19
+MERGED from [ch.acra:acra:4.8.5] /root/.gradle/caches/transforms-1/files-1.1/acra-4.8.5.aar/1367ef06c9651481cdd37a4d3885b349/AndroidManifest.xml:39:5-43:19
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/6f703912c06043eb7a8e38f910a3c895/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/6f703912c06043eb7a8e38f910a3c895/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/fe0d13fa798565c26f417c3638c63141/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/fe0d13fa798565c26f417c3638c63141/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/98042427ff7f70b764b7de8746b352d3/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/98042427ff7f70b764b7de8746b352d3/AndroidManifest.xml:22:5-20
+MERGED from [com.android.volley:volley:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/d2a596f47434167c7d846faa7cce6b50/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/d2a596f47434167c7d846faa7cce6b50/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:22:9-38
+	android:allowBackup
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:24:9-39
+	android:name
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:20:9-38
+activity#com.cytex.moswag.view.activities.ECartHomeActivity
+ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:27:9-30:52
+	android:screenOrientation
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:30:13-49
+	android:label
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:29:13-45
+	android:name
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:28:13-62
+activity#com.cytex.moswag.view.activities.APrioriResultActivity
+ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:31:9-34:52
+	android:screenOrientation
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:34:13-49
+	android:label
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:33:13-45
+	android:name
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:32:13-66
+activity#com.cytex.moswag.view.activities.SplashActivity
+ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:37:9-46:20
+	android:noHistory
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:39:13-37
+	android:theme
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:40:13-60
+	android:name
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:38:13-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:44:27-74
+activity#com.cytex.moswag.view.activities.LoginActivity
+ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:47:9-49:60
+	android:label
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:49:13-57
+	android:name
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:48:13-58
+activity#com.cytex.moswag.view.activities.Register
+ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:50:9-52:48
+	android:label
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:52:13-45
+	android:name
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:51:13-53
+activity#com.cytex.moswag.view.activities.UpdateOrderStatus
+ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:53:9-71
+	android:name
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:53:19-68
+activity#com.cytex.moswag.view.activities.ViewMyOrder
+ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:54:9-74
+	android:name
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml:54:19-62
+uses-sdk
+INJECTED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml
+INJECTED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/42dd3214488beac5fe7bcf0f23ddd473/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/42dd3214488beac5fe7bcf0f23ddd473/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/AndroidManifest.xml:20:5-43
+MERGED from [com.wang.avi:library:1.0.5] /root/.gradle/caches/transforms-1/files-1.1/library-1.0.5.aar/4bddf1231c5b9bb090077d7f2ada5fce/AndroidManifest.xml:7:5-9:41
+MERGED from [com.wang.avi:library:1.0.5] /root/.gradle/caches/transforms-1/files-1.1/library-1.0.5.aar/4bddf1231c5b9bb090077d7f2ada5fce/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.4.0.aar/38f2c55b3df638d32346583c614a684a/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.4.0.aar/38f2c55b3df638d32346583c614a684a/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/f431e6a3f182da93abae8a83d59166ae/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/f431e6a3f182da93abae8a83d59166ae/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/palette-v7-23.4.0.aar/31917893d60b903d4036d73995a9b4b3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/palette-v7-23.4.0.aar/31917893d60b903d4036d73995a9b4b3/AndroidManifest.xml:20:5-43
+MERGED from [ch.acra:acra:4.8.5] /root/.gradle/caches/transforms-1/files-1.1/acra-4.8.5.aar/1367ef06c9651481cdd37a4d3885b349/AndroidManifest.xml:37:5-72
+MERGED from [ch.acra:acra:4.8.5] /root/.gradle/caches/transforms-1/files-1.1/acra-4.8.5.aar/1367ef06c9651481cdd37a4d3885b349/AndroidManifest.xml:37:5-72
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/6f703912c06043eb7a8e38f910a3c895/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/6f703912c06043eb7a8e38f910a3c895/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/fe0d13fa798565c26f417c3638c63141/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/fe0d13fa798565c26f417c3638c63141/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/98042427ff7f70b764b7de8746b352d3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/98042427ff7f70b764b7de8746b352d3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.volley:volley:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/d2a596f47434167c7d846faa7cce6b50/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/d2a596f47434167c7d846faa7cce6b50/AndroidManifest.xml:7:5-43
+INJECTED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml
+INJECTED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml
+		INJECTED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml
+		ADDED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml
+		INJECTED from /cytex/AndroidStudioProjects/Restaurant/app/src/main/AndroidManifest.xml
+activity#org.acra.dialog.CrashReportDialog
+ADDED from [ch.acra:acra:4.8.5] /root/.gradle/caches/transforms-1/files-1.1/acra-4.8.5.aar/1367ef06c9651481cdd37a4d3885b349/AndroidManifest.xml:40:9-217
+	android:excludeFromRecents
+		ADDED from [ch.acra:acra:4.8.5] /root/.gradle/caches/transforms-1/files-1.1/acra-4.8.5.aar/1367ef06c9651481cdd37a4d3885b349/AndroidManifest.xml:40:19-52
+	android:launchMode
+		ADDED from [ch.acra:acra:4.8.5] /root/.gradle/caches/transforms-1/files-1.1/acra-4.8.5.aar/1367ef06c9651481cdd37a4d3885b349/AndroidManifest.xml:40:87-122
+	android:theme
+		ADDED from [ch.acra:acra:4.8.5] /root/.gradle/caches/transforms-1/files-1.1/acra-4.8.5.aar/1367ef06c9651481cdd37a4d3885b349/AndroidManifest.xml:40:172-215
+	android:finishOnTaskLaunch
+		ADDED from [ch.acra:acra:4.8.5] /root/.gradle/caches/transforms-1/files-1.1/acra-4.8.5.aar/1367ef06c9651481cdd37a4d3885b349/AndroidManifest.xml:40:53-86
+	android:name
+		ADDED from [ch.acra:acra:4.8.5] /root/.gradle/caches/transforms-1/files-1.1/acra-4.8.5.aar/1367ef06c9651481cdd37a4d3885b349/AndroidManifest.xml:40:123-171
+service#org.acra.sender.SenderService
+ADDED from [ch.acra:acra:4.8.5] /root/.gradle/caches/transforms-1/files-1.1/acra-4.8.5.aar/1367ef06c9651481cdd37a4d3885b349/AndroidManifest.xml:42:9-113
+	android:process
+		ADDED from [ch.acra:acra:4.8.5] /root/.gradle/caches/transforms-1/files-1.1/acra-4.8.5.aar/1367ef06c9651481cdd37a4d3885b349/AndroidManifest.xml:42:88-111
+	android:exported
+		ADDED from [ch.acra:acra:4.8.5] /root/.gradle/caches/transforms-1/files-1.1/acra-4.8.5.aar/1367ef06c9651481cdd37a4d3885b349/AndroidManifest.xml:42:18-42
+	android:name
+		ADDED from [ch.acra:acra:4.8.5] /root/.gradle/caches/transforms-1/files-1.1/acra-4.8.5.aar/1367ef06c9651481cdd37a4d3885b349/AndroidManifest.xml:42:43-87

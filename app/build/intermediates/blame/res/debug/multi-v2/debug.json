@@ -1,0 +1,1867 @@
+{
+    "logs": [
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-pa-rIN_values-pa-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-pa-rIN/values-pa-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,161,269,392,497,602,688,788,901,978,1054,1133,1234,1335,1432,1541,1640,1750,1872,1972",
+                        "endColumns": "105,107,122,104,104,85,99,112,76,75,78,100,100,96,108,98,109,121,99,100",
+                        "endOffsets": "156,264,387,492,597,683,783,896,973,1049,1128,1229,1330,1427,1536,1635,1745,1867,1967,2068"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-uk_values-uk.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-uk/values-uk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,165,273,396,498,604,690,798,916,995,1075,1156,1262,1369,1467,1575,1681,1790,1914,2014",
+                        "endColumns": "109,107,122,101,105,85,107,117,78,79,80,105,106,97,107,105,108,123,99,100",
+                        "endOffsets": "160,268,391,493,599,685,793,911,990,1070,1151,1257,1364,1462,1570,1676,1785,1909,2009,2110"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-zh-rCN_values-zh-rCN.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-zh-rCN/values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,258,381,476,576,658,755,861,937,1013,1091,1187,1283,1378,1475,1570,1668,1780,1874",
+                        "endColumns": "95,106,122,94,99,81,96,105,75,75,77,95,95,94,96,94,97,111,93,100",
+                        "endOffsets": "146,253,376,471,571,653,750,856,932,1008,1086,1182,1278,1373,1470,1565,1663,1775,1869,1970"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-w720dp-v13_values-w720dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-w720dp-v13/values-w720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "76",
+                        "endOffsets": "127"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-v23_values-v23.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,19,32,33,34,35",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1277,2079,2184,2299,2406",
+                        "endLines": "2,3,4,5,18,31,32,33,34,35",
+                        "endColumns": "134,134,74,86,12,12,104,114,106,112",
+                        "endOffsets": "185,320,395,482,1272,2074,2179,2294,2401,2514"
+                    }
+                },
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/f431e6a3f182da93abae8a83d59166ae/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "36",
+                        "startColumns": "4",
+                        "startOffsets": "2519",
+                        "endLines": "38",
+                        "endColumns": "12",
+                        "endOffsets": "2664"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-ro_values-ro.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-ro/values-ro.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,176,284,407,511,624,712,824,945,1030,1112,1195,1307,1420,1520,1634,1739,1845,1966,2069",
+                        "endColumns": "120,107,122,103,112,87,111,120,84,81,82,111,112,99,113,104,105,120,102,100",
+                        "endOffsets": "171,279,402,506,619,707,819,940,1025,1107,1190,1302,1415,1515,1629,1734,1840,1961,2064,2165"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-w820dp-v13_values-w820dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/values-w820dp/dimens.xml",
+                    "from": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "613",
+                        "endColumns": "57",
+                        "endOffsets": "666"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-xlarge-land-v4_values-xlarge-land-v4.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-af_values-af.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-af/values-af.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,267,390,490,596,681,784,902,978,1055,1136,1243,1346,1443,1551,1653,1755,1872,1970",
+                        "endColumns": "103,107,122,99,105,84,102,117,75,76,80,106,102,96,107,101,101,116,97,100",
+                        "endOffsets": "154,262,385,485,591,676,779,897,973,1050,1131,1238,1341,1438,1546,1648,1750,1867,1965,2066"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-lv_values-lv.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-lv/values-lv.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,175,283,406,514,623,709,813,935,1017,1099,1184,1293,1405,1504,1615,1724,1829,1948,2047",
+                        "endColumns": "119,107,122,107,108,85,103,121,81,81,84,108,111,98,110,108,104,118,98,100",
+                        "endOffsets": "170,278,401,509,618,704,808,930,1012,1094,1179,1288,1400,1499,1610,1719,1824,1943,2042,2143"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-et-rEE_values-et-rEE.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-et-rEE/values-et-rEE.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,172,280,403,510,621,707,809,926,1006,1084,1167,1278,1383,1482,1592,1693,1796,1924,2026",
+                        "endColumns": "116,107,122,106,110,85,101,116,79,77,82,110,104,98,109,100,102,127,101,100",
+                        "endOffsets": "167,275,398,505,616,702,804,921,1001,1079,1162,1273,1378,1477,1587,1688,1791,1919,2021,2122"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-zu_values-zu.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,271,394,501,615,703,806,933,1013,1093,1179,1283,1389,1487,1594,1700,1806,1926,2022",
+                        "endColumns": "107,107,122,106,113,87,102,126,79,79,85,103,105,97,106,105,105,119,95,100",
+                        "endOffsets": "158,266,389,496,610,698,801,928,1008,1088,1174,1278,1384,1482,1589,1695,1801,1921,2017,2118"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-w500dp-v13_values-w500dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-w500dp-v13/values-w500dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-en-rAU_values-en-rAU.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-en-rAU/values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,267,390,490,598,682,782,897,974,1050,1132,1235,1339,1438,1543,1646,1750,1869,1969",
+                        "endColumns": "103,107,122,99,107,83,99,114,76,75,81,102,103,98,104,102,103,118,99,100",
+                        "endOffsets": "154,262,385,485,593,677,777,892,969,1045,1127,1230,1334,1433,1538,1641,1745,1864,1964,2065"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-az-rAZ_values-az-rAZ.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-az-rAZ/values-az-rAZ.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,261,384,483,593,681,788,902,983,1062,1147,1254,1361,1461,1570,1674,1784,1881",
+                        "endColumns": "97,107,122,98,109,87,106,113,80,78,84,106,106,99,108,103,109,96,100",
+                        "endOffsets": "148,256,379,478,588,676,783,897,978,1057,1142,1249,1356,1456,1565,1669,1779,1876,1977"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-bn-rBD_values-bn-rBD.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-bn-rBD/values-bn-rBD.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,164,272,395,507,613,707,812,942,1020,1098,1185,1295,1411,1518,1628,1734,1844,1969,2074",
+                        "endColumns": "108,107,122,111,105,93,104,129,77,77,86,109,115,106,109,105,109,124,104,100",
+                        "endOffsets": "159,267,390,502,608,702,807,937,1015,1093,1180,1290,1406,1513,1623,1729,1839,1964,2069,2170"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-sk_values-sk.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-sk/values-sk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,162,270,393,493,604,690,798,916,994,1072,1156,1261,1370,1469,1575,1686,1795,1919,2017",
+                        "endColumns": "106,107,122,99,110,85,107,117,77,77,83,104,108,98,105,110,108,123,97,100",
+                        "endOffsets": "157,265,388,488,599,685,793,911,989,1067,1151,1256,1365,1464,1570,1681,1790,1914,2012,2113"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-mr-rIN_values-mr-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-mr-rIN/values-mr-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,173,281,404,510,617,707,808,923,1000,1078,1158,1270,1372,1468,1577,1678,1793,1916,2021",
+                        "endColumns": "117,107,122,105,106,89,100,114,76,77,79,111,101,95,108,100,114,122,104,100",
+                        "endOffsets": "168,276,399,505,612,702,803,918,995,1073,1153,1265,1367,1463,1572,1673,1788,1911,2016,2117"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-uz-rUZ_values-uz-rUZ.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,160,268,391,495,612,698,809,925,1005,1084,1168,1277,1384,1485,1593,1698,1803,1902",
+                        "endColumns": "104,107,122,103,116,85,110,115,79,78,83,108,106,100,107,104,104,98,100",
+                        "endOffsets": "155,263,386,490,607,693,804,920,1000,1079,1163,1272,1379,1480,1588,1693,1798,1897,1998"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-v13_values-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-v13/values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-v14/values-v14.xml",
+                    "from": {
+                        "startLines": "2,7,8,9,15,21,22,23,26,27",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,331,402,485,895,1317,1437,1500,1654,1717",
+                        "endLines": "6,7,8,14,20,21,22,25,26,27",
+                        "endColumns": "12,70,82,12,12,119,62,12,62,131",
+                        "endOffsets": "326,397,480,890,1312,1432,1495,1649,1712,1844"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-hu_values-hu.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-hu/values-hu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,271,394,499,614,698,810,940,1016,1092,1175,1285,1396,1496,1607,1715,1834,1968,2071",
+                        "endColumns": "107,107,122,104,114,83,111,129,75,75,82,109,110,99,110,107,118,133,102,100",
+                        "endOffsets": "158,266,389,494,609,693,805,935,1011,1087,1170,1280,1391,1491,1602,1710,1829,1963,2066,2167"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-hi_values-hi.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-hi/values-hi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,172,280,403,508,615,700,802,924,1001,1079,1169,1278,1380,1478,1588,1688,1803,1928,2034",
+                        "endColumns": "116,107,122,104,106,84,101,121,76,77,89,108,101,97,109,99,114,124,105,100",
+                        "endOffsets": "167,275,398,503,610,695,797,919,996,1074,1164,1273,1375,1473,1583,1683,1798,1923,2029,2130"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-v17_values-v17.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-v17/values-v17.xml",
+                    "from": {
+                        "startLines": "2,5,9,12,15,18,22,26,29,32,35,39,42,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,228,456,614,764,936,1164,1406,1577,1751,1920,2193,2393,2597",
+                        "endLines": "4,8,11,14,17,21,25,28,31,34,38,41,45,49",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "223,451,609,759,931,1159,1401,1572,1746,1915,2188,2388,2592,2921"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-v18_values-v18.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-pt_values-pt.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,175,283,406,512,619,708,809,927,1010,1090,1177,1284,1396,1498,1606,1713,1823,1948,2048",
+                        "endColumns": "119,107,122,105,106,88,100,117,82,79,86,106,111,101,107,106,109,124,99,100",
+                        "endOffsets": "170,278,401,507,614,703,804,922,1005,1085,1172,1279,1391,1493,1601,1708,1818,1943,2043,2144"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-te-rIN_values-te-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-te-rIN/values-te-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,169,277,400,509,620,710,815,940,1022,1104,1189,1302,1410,1510,1621,1723,1840,1967,2068",
+                        "endColumns": "113,107,122,108,110,89,104,124,81,81,84,112,107,99,110,101,116,126,100,100",
+                        "endOffsets": "164,272,395,504,615,705,810,935,1017,1099,1184,1297,1405,1505,1616,1718,1835,1962,2063,2164"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-tl_values-tl.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-tl/values-tl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,174,282,405,513,630,718,824,945,1024,1102,1186,1295,1406,1507,1617,1734,1842,1965,2067",
+                        "endColumns": "118,107,122,107,116,87,105,120,78,77,83,108,110,100,109,116,107,122,101,100",
+                        "endOffsets": "169,277,400,508,625,713,819,940,1019,1097,1181,1290,1401,1502,1612,1729,1837,1960,2062,2163"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-ky-rKG_values-ky-rKG.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-ky-rKG/values-ky-rKG.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,267,390,485,604,688,795,912,990,1069,1150,1260,1367,1465,1571,1678,1779,1903,2006",
+                        "endColumns": "103,107,122,94,118,83,106,116,77,78,80,109,106,97,105,106,100,123,102,100",
+                        "endOffsets": "154,262,385,480,599,683,790,907,985,1064,1145,1255,1362,1460,1566,1673,1774,1898,2001,2102"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-ta-rIN_values-ta-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-ta-rIN/values-ta-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,169,277,400,505,620,709,816,942,1023,1103,1185,1287,1391,1488,1598,1700,1807,1926,2026",
+                        "endColumns": "113,107,122,104,114,88,106,125,80,79,81,101,103,96,109,101,106,118,99,100",
+                        "endOffsets": "164,272,395,500,615,704,811,937,1018,1098,1180,1282,1386,1483,1593,1695,1802,1921,2021,2122"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-sw_values-sw.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-sw/values-sw.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,266,389,487,595,685,790,907,989,1072,1154,1255,1364,1463,1570,1679,1784,1903,2000",
+                        "endColumns": "102,107,122,97,107,89,104,116,81,82,81,100,108,98,106,108,104,118,96,100",
+                        "endOffsets": "153,261,384,482,590,680,785,902,984,1067,1149,1250,1359,1458,1565,1674,1779,1898,1995,2096"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-kn-rIN_values-kn-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-kn-rIN/values-kn-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,173,281,404,516,629,717,824,951,1028,1105,1187,1303,1414,1513,1626,1730,1844,1970,2070",
+                        "endColumns": "117,107,122,111,112,87,106,126,76,76,81,115,110,98,112,103,113,125,99,100",
+                        "endOffsets": "168,276,399,511,624,712,819,946,1023,1100,1182,1298,1409,1508,1621,1725,1839,1965,2065,2166"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-ur-rPK_values-ur-rPK.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-ur-rPK/values-ur-rPK.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,165,273,396,502,611,697,801,921,997,1073,1158,1266,1375,1477,1588,1688,1796,1925,2023",
+                        "endColumns": "109,107,122,105,108,85,103,119,75,75,84,107,108,101,110,99,107,128,97,102",
+                        "endOffsets": "160,268,391,497,606,692,796,916,992,1068,1153,1261,1370,1472,1583,1683,1791,1920,2018,2121"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-v22_values-v22.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-zh-rHK_values-zh-rHK.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-zh-rHK/values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,150,257,380,473,573,655,752,860,936,1012,1090,1186,1282,1377,1474,1569,1667,1780,1874",
+                        "endColumns": "94,106,122,92,99,81,96,107,75,75,77,95,95,94,96,94,97,112,93,101",
+                        "endOffsets": "145,252,375,468,568,650,747,855,931,1007,1085,1181,1277,1372,1469,1564,1662,1775,1869,1971"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-en-rIN_values-en-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-en-rIN/values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,267,390,490,598,682,782,897,974,1050,1132,1235,1339,1438,1543,1646,1750,1869,1969",
+                        "endColumns": "103,107,122,99,107,83,99,114,76,75,81,102,103,98,104,102,103,118,99,100",
+                        "endOffsets": "154,262,385,485,593,677,777,892,969,1045,1127,1230,1334,1433,1538,1641,1745,1864,1964,2065"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-sq-rAL_values-sq-rAL.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-sq-rAL/values-sq-rAL.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,169,277,400,500,612,699,809,932,1013,1092,1175,1281,1386,1484,1590,1693,1809,1940,2039",
+                        "endColumns": "113,107,122,99,111,86,109,122,80,78,82,105,104,97,105,102,115,130,98,100",
+                        "endOffsets": "164,272,395,495,607,694,804,927,1008,1087,1170,1276,1381,1479,1585,1688,1804,1935,2034,2135"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-gu-rIN_values-gu-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-gu-rIN/values-gu-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,164,272,395,499,606,693,794,917,994,1072,1152,1258,1360,1457,1566,1665,1775,1896,1999",
+                        "endColumns": "108,107,122,103,106,86,100,122,76,77,79,105,101,96,108,98,109,120,102,100",
+                        "endOffsets": "159,267,390,494,601,688,789,912,989,1067,1147,1253,1355,1452,1561,1660,1770,1891,1994,2095"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-fi_values-fi.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-fi/values-fi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,271,394,494,595,681,786,904,991,1073,1153,1260,1363,1460,1566,1665,1769,1888,1987",
+                        "endColumns": "107,107,122,99,100,85,104,117,86,81,79,106,102,96,105,98,103,118,98,100",
+                        "endOffsets": "158,266,389,489,590,676,781,899,986,1068,1148,1255,1358,1455,1561,1660,1764,1883,1982,2083"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-iw_values-iw.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-iw/values-iw.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,269,395,494,602,686,786,900,978,1056,1135,1237,1341,1437,1540,1641,1741,1857,1953",
+                        "endColumns": "103,109,125,98,107,83,99,113,77,77,78,101,103,95,102,100,99,115,95,102",
+                        "endOffsets": "154,264,390,489,597,681,781,895,973,1051,1130,1232,1336,1432,1535,1636,1736,1852,1948,2051"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-nb_values-nb.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-nb/values-nb.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,272,397,492,606,692,792,905,981,1057,1137,1240,1339,1435,1539,1637,1738,1854,1951",
+                        "endColumns": "107,108,124,94,113,85,99,112,75,75,79,102,98,95,103,97,100,115,96,100",
+                        "endOffsets": "158,267,392,487,601,687,787,900,976,1052,1132,1235,1334,1430,1534,1632,1733,1849,1946,2047"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-my-rMM_values-my-rMM.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-my-rMM/values-my-rMM.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,164,272,397,502,619,712,824,960,1038,1117,1203,1328,1440,1542,1668,1779,1889,2012,2112",
+                        "endColumns": "108,107,124,104,116,92,111,135,77,78,85,124,111,101,125,110,109,122,99,100",
+                        "endOffsets": "159,267,392,497,614,707,819,955,1033,1112,1198,1323,1435,1537,1663,1774,1884,2007,2107,2208"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-th_values-th.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-th/values-th.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,160,268,391,489,597,686,788,898,975,1053,1134,1242,1346,1444,1552,1657,1758,1874,1969",
+                        "endColumns": "104,107,122,97,107,88,101,109,76,77,80,107,103,97,107,104,100,115,94,100",
+                        "endOffsets": "155,263,386,484,592,681,783,893,970,1048,1129,1237,1341,1439,1547,1652,1753,1869,1964,2065"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-sw600dp-v13_values-sw600dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/values-sw600dp/dimens.xml",
+                    "from": {
+                        "startLines": "10,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "377,420",
+                        "endColumns": "41,53",
+                        "endOffsets": "414,469"
+                    },
+                    "to": {
+                        "startLines": "17,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "1101,1143",
+                        "endColumns": "41,53",
+                        "endOffsets": "1138,1192"
+                    }
+                },
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,194,268,344,403,474,542",
+                        "endColumns": "68,69,73,75,58,70,67,54",
+                        "endOffsets": "119,189,263,339,398,469,537,592"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,19",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,194,268,344,403,474,1197",
+                        "endColumns": "68,69,73,75,58,70,67,54",
+                        "endOffsets": "119,189,263,339,398,469,537,1247"
+                    }
+                },
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,185,256,328,386,444,550,614,677",
+                        "endLines": "2,3,4,5,6,7,8,9,10,14",
+                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
+                        "endOffsets": "110,180,251,323,381,439,545,609,672,854"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14,15,16,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "542,602,672,743,815,873,931,1037,1252,1315",
+                        "endLines": "9,10,11,12,13,14,15,16,20,24",
+                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
+                        "endOffsets": "597,667,738,810,868,926,1032,1096,1310,1492"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-mn-rMN_values-mn-rMN.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-mn-rMN/values-mn-rMN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,168,276,399,499,612,699,805,917,999,1081,1163,1272,1376,1473,1581,1682,1785,1907,2004",
+                        "endColumns": "112,107,122,99,112,86,105,111,81,81,81,108,103,96,107,100,102,121,96,100",
+                        "endOffsets": "163,271,394,494,607,694,800,912,994,1076,1158,1267,1371,1468,1576,1677,1780,1902,1999,2100"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-ru_values-ru.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-ru/values-ru.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,170,278,401,503,615,701,806,926,1005,1083,1163,1269,1377,1475,1584,1690,1798,1934,2034",
+                        "endColumns": "114,107,122,101,111,85,104,119,78,77,79,105,107,97,108,105,107,135,99,100",
+                        "endOffsets": "165,273,396,498,610,696,801,921,1000,1078,1158,1264,1372,1470,1579,1685,1793,1929,2029,2130"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-port_values-port.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-hy-rAM_values-hy-rAM.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-hy-rAM/values-hy-rAM.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,266,389,490,600,690,796,911,993,1074,1159,1266,1373,1472,1582,1689,1790,1910,2009",
+                        "endColumns": "102,107,122,100,109,89,105,114,81,80,84,106,106,98,109,106,100,119,98,100",
+                        "endOffsets": "153,261,384,485,595,685,791,906,988,1069,1154,1261,1368,1467,1577,1684,1785,1905,2004,2105"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-el_values-el.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-el/values-el.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,173,281,404,515,632,717,822,948,1036,1122,1207,1318,1428,1530,1641,1750,1858,1981,2081",
+                        "endColumns": "117,107,122,110,116,84,104,125,87,85,84,110,109,101,110,108,107,122,99,100",
+                        "endOffsets": "168,276,399,510,627,712,817,943,1031,1117,1202,1313,1423,1525,1636,1745,1853,1976,2076,2177"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-es-rUS_values-es-rUS.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-es-rUS/values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,175,283,406,515,623,708,809,932,1016,1097,1179,1291,1403,1504,1612,1719,1826,1948,2048",
+                        "endColumns": "119,107,122,108,107,84,100,122,83,80,81,111,111,100,107,106,106,121,99,100",
+                        "endOffsets": "170,278,401,510,618,703,804,927,1011,1092,1174,1286,1398,1499,1607,1714,1821,1943,2043,2144"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-ja_values-ja.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-ja/values-ja.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,152,259,380,473,578,660,758,866,943,1019,1097,1199,1298,1393,1496,1591,1687,1798,1895",
+                        "endColumns": "96,106,120,92,104,81,97,107,76,75,77,101,98,94,102,94,95,110,96,100",
+                        "endOffsets": "147,254,375,468,573,655,753,861,938,1014,1092,1194,1293,1388,1491,1586,1682,1793,1890,1991"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-ka-rGE_values-ka-rGE.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-ka-rGE/values-ka-rGE.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,164,272,395,499,610,698,803,916,1000,1082,1165,1278,1385,1483,1596,1700,1804,1926,2024",
+                        "endColumns": "108,107,122,103,110,87,104,112,83,81,82,112,106,97,112,103,103,121,97,100",
+                        "endOffsets": "159,267,390,494,605,693,798,911,995,1077,1160,1273,1380,1478,1591,1695,1799,1921,2019,2120"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-pt-rBR_values-pt-rBR.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,175,283,406,512,619,708,809,927,1010,1090,1177,1284,1396,1498,1606,1713,1823,1948,2048",
+                        "endColumns": "119,107,122,105,106,88,100,117,82,79,86,106,111,101,107,106,109,124,99,100",
+                        "endOffsets": "170,278,401,507,614,703,804,922,1005,1085,1172,1279,1391,1493,1601,1708,1818,1943,2043,2144"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-vi_values-vi.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-vi/values-vi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,169,277,400,508,617,701,804,923,1000,1077,1161,1265,1374,1475,1580,1694,1799,1919,2018",
+                        "endColumns": "113,107,122,107,108,83,102,118,76,76,83,103,108,100,104,113,104,119,98,100",
+                        "endOffsets": "164,272,395,503,612,696,799,918,995,1072,1156,1260,1369,1470,1575,1689,1794,1914,2013,2114"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-de_values-de.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,160,268,391,489,601,687,792,907,984,1060,1142,1253,1356,1455,1566,1668,1775,1897,1999",
+                        "endColumns": "104,107,122,97,111,85,104,114,76,75,81,110,102,98,110,101,106,121,101,100",
+                        "endOffsets": "155,263,386,484,596,682,787,902,979,1055,1137,1248,1351,1450,1561,1663,1770,1892,1994,2095"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-fa_values-fa.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-fa/values-fa.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,165,275,401,504,615,699,802,917,996,1074,1155,1267,1370,1468,1578,1681,1790,1915,2016",
+                        "endColumns": "109,109,125,102,110,83,102,114,78,77,80,111,102,97,109,102,108,124,100,100",
+                        "endOffsets": "160,270,396,499,610,694,797,912,991,1069,1150,1262,1365,1463,1573,1676,1785,1910,2011,2112"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-lt_values-lt.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-lt/values-lt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,171,279,402,503,616,703,812,933,1015,1096,1181,1290,1399,1499,1609,1713,1826,1956,2057",
+                        "endColumns": "115,107,122,100,112,86,108,120,81,80,84,108,108,99,109,103,112,129,100,100",
+                        "endOffsets": "166,274,397,498,611,698,807,928,1010,1091,1176,1285,1394,1494,1604,1708,1821,1951,2052,2153"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/values-v21/styles.xml",
+                    "from": {
+                        "startLines": "19,11,15,26",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "657,378,514,1037",
+                        "endLines": "24,13,17,28",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "1031,508,651,1156"
+                    },
+                    "to": {
+                        "startLines": "210,216,219,254",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "15836,16215,16350,18325",
+                        "endLines": "215,218,221,256",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "16210,16345,16487,18444"
+                    }
+                },
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,20,21,22,24,26,27,28,29,30,32,34,36,38,40,42,43,45,47,48,49,51,53,54,55,56,57,101,104,148,151,153,155,157,160,162,165,166,167,168,169,170,171,172,173,176,177,179,181,183,185,189,191,192,193,194,196,200,202,204,205,206,207,208,210,220,230,240,241",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,146,249,352,457,564,673,782,891,1000,1109,1216,1319,1438,1593,1748,1853,1974,2075,2222,2363,2466,2585,2692,2795,2950,3121,3270,3435,3592,3743,3862,4011,4160,4272,4419,4572,4719,4794,4883,4970,5071,8139,8325,11405,11603,11726,11849,11962,12145,12276,12477,12566,12677,12804,12905,13000,13123,13252,13369,13546,13645,13780,13923,14058,14177,14378,14497,14590,14701,14757,14864,15059,15170,15303,15398,15489,15580,15697,15836,16349,16874,17554,17611",
+                        "endLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,16,18,19,20,21,23,25,26,27,28,29,31,33,35,37,39,41,42,44,46,47,48,50,52,53,54,55,56,100,103,147,150,152,154,156,159,161,164,165,166,167,168,169,170,171,172,175,176,178,180,182,184,188,190,191,192,193,195,199,201,203,204,205,206,207,209,219,229,239,240,241",
+                        "endColumns": "90,102,102,104,106,108,108,108,108,108,106,102,118,12,12,104,120,100,12,12,102,118,106,102,12,12,12,12,12,12,118,12,12,111,146,12,12,74,88,86,100,12,12,12,12,12,12,12,12,12,12,88,110,126,100,94,122,128,116,12,98,12,12,12,12,12,12,92,110,55,12,12,12,12,94,90,90,116,12,12,12,12,56,57",
+                        "endOffsets": "141,244,347,452,559,668,777,886,995,1104,1211,1314,1433,1588,1743,1848,1969,2070,2217,2358,2461,2580,2687,2790,2945,3116,3265,3430,3587,3738,3857,4006,4155,4267,4414,4567,4714,4789,4878,4965,5066,8134,8320,11400,11598,11721,11844,11957,12140,12271,12472,12561,12672,12799,12900,12995,13118,13247,13364,13541,13640,13775,13918,14053,14172,14373,14492,14585,14696,14752,14859,15054,15165,15298,15393,15484,15575,15692,15831,16344,16869,17549,17606,17664"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,20,21,22,24,26,27,28,29,30,32,34,36,38,40,42,43,45,47,48,49,51,53,54,55,56,57,101,104,148,151,153,155,157,160,162,165,166,167,168,169,170,171,172,173,176,177,179,181,183,185,189,191,192,193,194,196,200,202,204,205,206,207,208,222,232,242,252,253",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,146,249,352,457,564,673,782,891,1000,1109,1216,1319,1438,1593,1748,1853,1974,2075,2222,2363,2466,2585,2692,2795,2950,3121,3270,3435,3592,3743,3862,4011,4160,4272,4419,4572,4719,4794,4883,4970,5071,8139,8325,11405,11603,11726,11849,11962,12145,12276,12477,12566,12677,12804,12905,13000,13123,13252,13369,13546,13645,13780,13923,14058,14177,14378,14497,14590,14701,14757,14864,15059,15170,15303,15398,15489,15580,15697,16492,17005,17530,18210,18267",
+                        "endLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,16,18,19,20,21,23,25,26,27,28,29,31,33,35,37,39,41,42,44,46,47,48,50,52,53,54,55,56,100,103,147,150,152,154,156,159,161,164,165,166,167,168,169,170,171,172,175,176,178,180,182,184,188,190,191,192,193,195,199,201,203,204,205,206,207,209,231,241,251,252,253",
+                        "endColumns": "90,102,102,104,106,108,108,108,108,108,106,102,118,12,12,104,120,100,12,12,102,118,106,102,12,12,12,12,12,12,118,12,12,111,146,12,12,74,88,86,100,12,12,12,12,12,12,12,12,12,12,88,110,126,100,94,122,128,116,12,98,12,12,12,12,12,12,92,110,55,12,12,12,12,94,90,90,116,12,12,12,12,56,57",
+                        "endOffsets": "141,244,347,452,559,668,777,886,995,1104,1211,1314,1433,1588,1743,1848,1969,2070,2217,2358,2461,2580,2687,2790,2945,3116,3265,3430,3587,3738,3857,4006,4155,4267,4414,4567,4714,4789,4878,4965,5066,8134,8320,11400,11598,11721,11844,11957,12140,12271,12472,12561,12672,12799,12900,12995,13118,13247,13364,13541,13640,13775,13918,14053,14172,14373,14492,14585,14696,14752,14859,15054,15165,15298,15393,15484,15575,15692,15831,17000,17525,18205,18262,18320"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-eu-rES_values-eu-rES.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-eu-rES/values-eu-rES.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,164,272,395,493,603,689,795,919,1006,1090,1172,1281,1391,1490,1599,1712,1823,1960,2059",
+                        "endColumns": "108,107,122,97,109,85,105,123,86,83,81,108,109,98,108,112,110,136,98,100",
+                        "endOffsets": "159,267,390,488,598,684,790,914,1001,1085,1167,1276,1386,1485,1594,1707,1818,1955,2054,2155"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-si-rLK_values-si-rLK.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-si-rLK/values-si-rLK.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,165,273,396,503,610,698,803,919,1008,1095,1179,1288,1393,1491,1601,1700,1806,1927,2026",
+                        "endColumns": "109,107,122,106,106,87,104,115,88,86,83,108,104,97,109,98,105,120,98,100",
+                        "endOffsets": "160,268,391,498,605,693,798,914,1003,1090,1174,1283,1388,1486,1596,1695,1801,1922,2021,2122"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-sv_values-sv.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-sv/values-sv.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,161,269,392,495,606,691,793,906,982,1058,1138,1244,1344,1440,1545,1647,1749,1866,1968",
+                        "endColumns": "105,107,122,102,110,84,101,112,75,75,79,105,99,95,104,101,101,116,101,100",
+                        "endOffsets": "156,264,387,490,601,686,788,901,977,1053,1133,1239,1339,1435,1540,1642,1744,1861,1963,2064"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-ms-rMY_values-ms-rMY.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-ms-rMY/values-ms-rMY.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,166,274,397,502,610,697,801,912,990,1069,1149,1261,1370,1467,1576,1679,1786,1908,2009",
+                        "endColumns": "110,107,122,104,107,86,103,110,77,78,79,111,108,96,108,102,106,121,100,100",
+                        "endOffsets": "161,269,392,497,605,692,796,907,985,1064,1144,1256,1365,1462,1571,1674,1781,1903,2004,2105"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-w480dp-v13_values-w480dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-w480dp-v13/values-w480dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,117",
+                        "endColumns": "61,71",
+                        "endOffsets": "112,184"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-fr-rCA_values-fr-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-fr-rCA/values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,166,274,397,512,623,710,826,956,1039,1119,1215,1325,1437,1540,1651,1758,1860,1982,2081",
+                        "endColumns": "110,107,122,114,110,86,115,129,82,79,95,109,111,102,110,106,101,121,98,100",
+                        "endOffsets": "161,269,392,507,618,705,821,951,1034,1114,1210,1320,1432,1535,1646,1753,1855,1977,2076,2177"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-gl-rES_values-gl-rES.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-gl-rES/values-gl-rES.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,167,275,398,510,618,703,805,931,1015,1096,1178,1285,1394,1493,1601,1704,1811,1933,2033",
+                        "endColumns": "111,107,122,111,107,84,101,125,83,80,81,106,108,98,107,102,106,121,99,100",
+                        "endOffsets": "162,270,393,505,613,698,800,926,1010,1091,1173,1280,1389,1488,1596,1699,1806,1928,2028,2129"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-land_values-land.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,117,189,259,323,394",
+                        "endColumns": "61,71,69,63,70,67",
+                        "endOffsets": "112,184,254,318,389,457"
+                    }
+                },
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "570",
+                        "endLines": "13",
+                        "endColumns": "12",
+                        "endOffsets": "747"
+                    }
+                },
+                {
+                    "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/values-land/dimens.xml",
+                    "from": {
+                        "startLines": "10,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "377,433",
+                        "endColumns": "54,52",
+                        "endOffsets": "427,481"
+                    },
+                    "to": {
+                        "startLines": "8,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "462,517",
+                        "endColumns": "54,52",
+                        "endOffsets": "512,565"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-pl_values-pl.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-pl/values-pl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,171,279,402,504,612,698,807,926,1004,1081,1163,1272,1381,1480,1589,1700,1808,1931,2027",
+                        "endColumns": "115,107,122,101,107,85,108,118,77,76,81,108,108,98,108,110,107,122,95,100",
+                        "endOffsets": "166,274,397,499,607,693,802,921,999,1076,1158,1267,1376,1475,1584,1695,1803,1926,2022,2123"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-am_values-am.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-am/values-am.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,157,265,388,487,593,679,782,895,973,1051,1130,1230,1330,1426,1529,1628,1735,1851,1947",
+                        "endColumns": "101,107,122,98,105,85,102,112,77,77,78,99,99,95,102,98,106,115,95,100",
+                        "endOffsets": "152,260,383,482,588,674,777,890,968,1046,1125,1225,1325,1421,1524,1623,1730,1846,1942,2043"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-large-v4_values-large-v4.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,117,189,248,319,390,460,530,598,666,730,785,889",
+                        "endColumns": "61,71,58,70,70,69,69,67,67,63,54,103,115",
+                        "endOffsets": "112,184,243,314,385,455,525,593,661,725,780,884,1000"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-tr_values-tr.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-tr/values-tr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,160,268,391,490,602,692,798,918,997,1073,1152,1259,1364,1460,1567,1669,1777,1896,1994",
+                        "endColumns": "104,107,122,98,111,89,105,119,78,75,78,106,104,95,106,101,107,118,97,100",
+                        "endOffsets": "155,263,386,485,597,687,793,913,992,1068,1147,1254,1359,1455,1562,1664,1772,1891,1989,2090"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-w360dp-v13_values-w360dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-w360dp-v13/values-w360dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-v11/values-v11.xml",
+                    "from": {
+                        "startLines": "2,8,14,20,26,32,38,39,40,45,50,52,54,55,56,107,159",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,474,899,1327,1753,2180,2605,2694,2795,3203,3623,3730,3859,3930,4013,7721,11569",
+                        "endLines": "7,13,19,25,31,37,38,39,44,49,51,53,54,55,106,158,159",
+                        "endColumns": "12,12,12,12,12,12,88,100,12,12,12,12,70,82,12,12,90",
+                        "endOffsets": "469,894,1322,1748,2175,2600,2689,2790,3198,3618,3725,3854,3925,4008,7716,11564,11655"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-v12_values-v12.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-v12/values-v12.xml",
+                    "from": {
+                        "startLines": "2,5,8,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,279,479,598",
+                        "endLines": "4,7,8,9",
+                        "endColumns": "12,12,118,94",
+                        "endOffsets": "274,474,593,688"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/f431e6a3f182da93abae8a83d59166ae/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "168,169,170,171,416,417,418,588,1551,1553,1556",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "8419,8480,8542,8604,51477,51536,51593,62328,122324,122388,122514",
+                        "endLines": "168,169,170,171,416,417,418,594,1552,1555,1558",
+                        "endColumns": "60,61,61,63,58,56,53,12,12,12,12",
+                        "endOffsets": "8475,8537,8599,8663,51531,51588,51642,62737,122383,122509,122637"
+                    }
+                },
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.4.0.aar/38f2c55b3df638d32346583c614a684a/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "465,466,467,482",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "54433,54508,54584,55406",
+                        "endColumns": "74,75,71,65",
+                        "endOffsets": "54503,54579,54651,55467"
+                    }
+                },
+                {
+                    "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,25,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,20,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,1323,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1072,-1,-1,-1,-1",
+                        "endColumns": "-1,-1,-1,-1,-1,-1,-1,61,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,53,-1,-1,-1,-1",
+                        "endOffsets": "-1,-1,-1,-1,-1,-1,-1,1380,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1121,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "518,519,520,521,522,523,524,525,526,529,531,532,533,534,535,536,537,538,539,540,541,542,543,544,545,548,549,550,551,552,553,554,555,557,558",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "57695,57766,57835,57886,57939,57990,58039,58096,58158,58471,58608,58654,58712,58778,58840,58910,58982,59062,59140,59218,59288,59326,59378,59425,59539,59668,59733,59780,59833,59873,59935,59989,60028,60145,60202",
+                        "endLines": "518,519,520,521,522,523,524,525,526,529,531,532,533,534,535,536,537,538,539,540,541,542,543,544,547,548,549,550,551,552,553,554,555,557,558",
+                        "endColumns": "70,68,50,52,50,48,56,61,46,49,45,57,65,61,69,71,79,77,77,69,37,51,46,113,13,64,46,52,39,61,53,38,45,56,54",
+                        "endOffsets": "57761,57830,57881,57934,57985,58034,58091,58153,58200,58516,58649,58707,58773,58835,58905,58977,59057,59135,59213,59283,59321,59373,59420,59534,59663,59728,59775,59828,59868,59930,59984,60023,60069,60197,60252"
+                    }
+                },
+                {
+                    "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "411,412,413,414,415,419,420,452,453,454,455,456,457,458,459,460,464,471,472,473,474,475",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "51219,51277,51328,51384,51433,51647,51702,53689,53733,53784,53826,53876,53916,53971,54020,54069,54390,54836,54886,54939,54985,55039",
+                        "endColumns": "57,50,55,48,43,54,47,43,50,41,49,39,54,48,48,55,42,49,52,45,53,55",
+                        "endOffsets": "51272,51323,51379,51428,51472,51697,51745,53728,53779,53821,53871,53911,53966,54015,54064,54120,54428,54881,54934,54980,55034,55090"
+                    }
+                },
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "15,20,21,129,130,131,132,133,134,135,136,137,138,139,140,141,145,146,150,151,152,153,160,161,162,163,164,165,166,167,190,191,192,193,198,199,202,203,204,205,228,229,230,231,232,233,234,235,236,237,238,239,251,252,253,254,255,256,257,258,263,264,265,266,267,268,273,274,275,276,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,380,381,382,383,384,385,386,387,388,389,390,391,392,393,394,395,396,397,398,399,400,401,402,403,404,405,406,407,408,409,410,450,451,461,462,463,468,469,470,476,477,478,479,480,481,483,484,485,486,488,489,490,492,498,499,500,501,502,503,504,505,506,507,508,509,510,511,512,513,514,515,516,517,556,562,563,564,565,572,579,580,584,595,600,615,622,626,630,635,639,643,647,651,655,659,663,667,671,673,675,679,683,687,692,696,699,703,707,711,715,719,723,727,731,735,739,743,744,745,746,749,752,754,756,757,758,761,763,765,767,772,773,777,783,787,788,790,801,802,806,812,816,817,818,822,848,852,879,1033,1055,1209,1231,1238,1243,1264,1269,1274,1284,1293,1302,1305,1312,1320,1327,1328,1337,1340,1343,1348,1352,1356,1359,1360,1364,1368,1378,1383,1390,1396,1397,1400,1404,1409,1411,1413,1416,1419,1421,1425,1432,1435,1438,1442,1444,1448,1450,1456,1458,1462,1470,1478,1490,1496,1505,1516,1519,1524,1536,1602,1640,1679,1680,1690,1699,1700,1702,1706,1709,1712,1715,1718,1722,1725,1728,1731,1735,1738,1742,1749,1750,1751,1752,1753,1754,1755,1756,1757,1758,1759,1760,1761,1762,1763,1764,1766,1768,1769,1770,1771,1773,1775,1776,1777,1778,1779,1780,1781,1783,1784,1786,1787,1789,1791,1792,1794,1795,1796,1797,1799,1801,1803,1804,1827,1828,1829,1830,1831,1832,1834,1836,1838,1839,1840,1841,1842,1843,1844,1845,1846,1847,1848,1849,1850,1852,1853,1854,1855,1856,1857,1859,1863,1891,1892,1893,1894,1895,1896,1898,1900,1902,1904,1906,1907,1908,1909,1911,1913,1915,1916,1917,1918,1919,1920,1921,1922,1923,1924,1925,1926,1929,1930,1931,1932,1934,1936,1937,1939,1940,1942,1944,1946,1947,1948,1949,1950,1951,1952,1953,1954,1955,1956,1958,1960,1961,1962,1964,1965,1966,1968,1970,1972,1974,1976,1978,1979,1980,1981,1982,1983,1984,1985,1986,1987,1988,1989,1990",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "614,796,841,5894,5935,5990,6053,6129,6187,6249,6322,6390,6468,6549,6610,6685,6892,6969,7181,7266,7348,7424,7778,7855,7933,8039,8145,8224,8304,8361,9750,9824,9899,9964,10212,10284,10441,10508,10576,10680,11880,11939,11998,12057,12116,12175,12229,12283,12336,12390,12444,12498,13049,13123,13202,13275,13349,13420,13492,13564,13803,13860,13918,13991,14065,14139,14431,14503,14576,14646,46628,46697,46767,46841,46917,46994,47070,47147,47211,47276,47345,47422,47497,47566,47634,47711,47777,47874,47939,48008,48107,48166,48224,48281,48340,48411,48483,48555,48627,48699,48767,48835,48894,48957,49047,49138,49198,49264,49331,49397,49467,49531,49584,49697,49755,49820,49884,49959,50032,50104,50153,50214,50275,50336,50398,50462,50526,50590,50655,50718,50778,50839,50898,50958,51020,51091,51151,53516,53602,54125,54215,54302,54656,54718,54779,55095,55167,55224,55272,55321,55372,55472,55519,55568,55614,55694,55758,55820,55937,56279,56349,56423,56501,56594,56664,56742,56796,56866,56951,56999,57045,57097,57170,57244,57313,57388,57462,57536,57625,60074,60401,60479,60569,60657,61210,61711,61800,62047,62742,63027,63912,64389,64611,64833,65101,65328,65558,65788,66018,66248,66475,66714,66940,67185,67315,67445,67675,67923,68142,68425,68633,68764,68991,69237,69462,69709,69930,70175,70451,70752,71076,71367,71681,71818,71949,72054,72258,72466,72590,72714,72819,72936,73150,73296,73436,73522,73870,73958,74188,74606,74839,74921,75019,75611,75711,75947,76371,76610,76704,76793,77030,78953,79195,81249,90550,91817,101228,102509,103045,103375,104498,104754,104990,105537,106031,106636,106784,107372,107936,108311,108429,108967,109124,109268,109588,109844,110014,110155,110219,110501,110787,111463,111727,112065,112418,112512,112698,113004,113266,113391,113518,113757,113968,114087,114280,114735,114916,115038,115297,115410,115597,115699,116143,116267,116552,117060,117556,118443,118737,119307,120039,120211,120547,121455,124903,127703,130643,130705,131283,131867,131953,132066,132295,132455,132607,132778,132945,133188,133358,133531,133702,133976,134175,134380,134834,134918,135014,135110,135208,135308,135410,135512,135614,135716,135818,135918,136014,136126,136255,136378,136532,136686,136784,136898,136992,137132,137266,137362,137474,137574,137690,137786,137898,138038,138174,138338,138468,138626,138776,138917,139061,139196,139308,139436,139572,139714,139856,139968,141469,141537,141610,141684,141757,141831,141977,142121,142259,142325,142415,142491,142595,142685,142787,142895,143003,143103,143183,143275,143373,143483,143561,143667,143759,143863,143973,144095,144258,145778,145858,145958,146048,146158,146250,146350,146462,146576,146692,146808,146902,147016,147128,147230,147350,147472,147554,147658,147778,147904,148002,148096,148184,148296,148412,148534,148646,148821,148937,149023,149115,149227,149351,149418,149544,149612,149740,149884,150012,150081,150176,150291,150404,150503,150612,150723,150834,150935,151040,151152,151282,151373,151496,151608,151694,151798,151906,152006,152124,152228,152332,152458,152546,152654,152754,152844,152954,153038,153122,153176,153240,153346,153456,153540",
+                        "endLines": "15,20,21,129,130,131,132,133,134,135,136,137,138,139,140,141,145,146,150,151,152,153,160,161,162,163,164,165,166,167,190,191,192,193,198,199,202,203,204,205,228,229,230,231,232,233,234,235,236,237,238,239,251,252,253,254,255,256,257,258,263,264,265,266,267,268,273,274,275,276,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,380,381,382,383,384,385,386,387,388,389,390,391,392,393,394,395,396,397,398,399,400,401,402,403,404,405,406,407,408,409,410,450,451,461,462,463,468,469,470,476,477,478,479,480,481,483,484,485,486,488,489,490,492,498,499,500,501,502,503,504,505,506,507,508,509,510,511,512,513,514,515,516,517,556,562,563,564,565,578,579,583,587,599,605,621,625,629,634,638,642,646,650,654,658,662,666,670,672,674,678,682,686,691,695,698,702,706,710,714,718,722,726,730,734,738,742,743,744,745,748,751,753,755,756,757,760,762,764,766,771,772,776,782,786,787,789,800,801,805,811,815,816,817,821,847,851,878,1032,1054,1208,1230,1237,1242,1263,1268,1273,1283,1292,1301,1304,1311,1319,1326,1327,1336,1339,1342,1347,1351,1355,1358,1359,1363,1367,1377,1382,1389,1395,1396,1399,1403,1408,1410,1412,1415,1418,1420,1424,1431,1434,1437,1441,1443,1447,1449,1455,1457,1461,1469,1477,1489,1495,1504,1515,1518,1523,1535,1540,1639,1678,1679,1689,1698,1699,1701,1705,1708,1711,1714,1717,1721,1724,1727,1730,1734,1737,1741,1745,1749,1750,1751,1752,1753,1754,1755,1756,1757,1758,1759,1760,1761,1762,1763,1765,1767,1768,1769,1770,1772,1774,1775,1776,1777,1778,1779,1780,1782,1783,1785,1786,1788,1790,1791,1793,1794,1795,1796,1798,1800,1802,1803,1804,1827,1828,1829,1830,1831,1833,1835,1837,1838,1839,1840,1841,1842,1843,1844,1845,1846,1847,1848,1849,1851,1852,1853,1854,1855,1856,1858,1862,1866,1891,1892,1893,1894,1895,1897,1899,1901,1903,1905,1906,1907,1908,1910,1912,1914,1915,1916,1917,1918,1919,1920,1921,1922,1923,1924,1925,1928,1929,1930,1931,1933,1935,1936,1938,1939,1941,1943,1945,1946,1947,1948,1949,1950,1951,1952,1953,1954,1955,1957,1959,1960,1961,1963,1964,1965,1967,1969,1971,1973,1975,1977,1978,1979,1980,1981,1982,1983,1984,1985,1986,1987,1988,1989,1990",
+                        "endColumns": "54,44,48,40,54,62,75,57,61,72,67,77,80,60,74,75,76,77,84,81,75,75,76,77,105,105,78,79,56,57,73,74,64,65,71,72,66,67,103,105,58,58,58,58,58,53,53,52,53,53,53,53,73,78,72,73,70,71,71,72,56,57,72,73,73,74,71,72,69,70,68,69,73,75,76,75,76,63,64,68,76,74,68,67,76,65,96,64,68,98,58,57,56,58,70,71,71,71,71,67,67,58,62,89,90,59,65,66,65,69,63,52,112,57,64,63,74,72,71,48,60,60,60,61,63,63,63,64,62,59,60,58,59,61,70,59,67,85,86,89,86,87,61,60,56,71,56,47,48,50,33,46,48,45,31,63,61,54,59,69,73,77,92,69,77,53,69,84,47,45,51,72,73,68,74,73,73,88,69,70,77,89,87,95,12,88,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,136,130,104,12,12,12,12,104,116,12,12,12,12,12,87,12,12,12,81,12,12,99,12,12,12,93,88,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,117,12,12,12,12,12,12,12,63,12,12,12,12,12,12,93,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,61,12,12,85,12,12,12,12,12,12,12,12,12,12,12,12,12,12,83,95,95,97,99,101,101,101,101,101,99,95,111,128,122,12,12,97,113,93,12,12,95,111,99,115,95,111,12,135,12,129,12,12,140,12,134,111,127,12,12,12,111,139,67,72,73,72,73,12,12,12,65,89,75,103,89,101,107,107,99,79,91,97,12,77,105,91,103,109,12,12,12,79,99,89,109,91,12,12,12,12,12,93,113,111,12,12,12,81,103,119,125,97,93,87,111,115,121,111,12,115,85,91,12,12,66,12,67,12,12,12,68,94,114,112,98,108,110,110,100,104,12,12,90,122,12,85,103,12,12,12,12,12,12,87,107,99,89,109,83,83,53,63,105,109,83,119",
+                        "endOffsets": "664,836,885,5930,5985,6048,6124,6182,6244,6317,6385,6463,6544,6605,6680,6756,6964,7042,7261,7343,7419,7495,7850,7928,8034,8140,8219,8299,8356,8414,9819,9894,9959,10025,10279,10352,10503,10571,10675,10781,11934,11993,12052,12111,12170,12224,12278,12331,12385,12439,12493,12547,13118,13197,13270,13344,13415,13487,13559,13632,13855,13913,13986,14060,14134,14209,14498,14571,14641,14712,46692,46762,46836,46912,46989,47065,47142,47206,47271,47340,47417,47492,47561,47629,47706,47772,47869,47934,48003,48102,48161,48219,48276,48335,48406,48478,48550,48622,48694,48762,48830,48889,48952,49042,49133,49193,49259,49326,49392,49462,49526,49579,49692,49750,49815,49879,49954,50027,50099,50148,50209,50270,50331,50393,50457,50521,50585,50650,50713,50773,50834,50893,50953,51015,51086,51146,51214,53597,53684,54210,54297,54385,54713,54774,54831,55162,55219,55267,55316,55367,55401,55514,55563,55609,55641,55753,55815,55870,55992,56344,56418,56496,56589,56659,56737,56791,56861,56946,56994,57040,57092,57165,57239,57308,57383,57457,57531,57620,57690,60140,60474,60564,60652,60748,61706,61795,62042,62323,63022,63415,64384,64606,64828,65096,65323,65553,65783,66013,66243,66470,66709,66935,67180,67310,67440,67670,67918,68137,68420,68628,68759,68986,69232,69457,69704,69925,70170,70446,70747,71071,71362,71676,71813,71944,72049,72253,72461,72585,72709,72814,72931,73145,73291,73431,73517,73865,73953,74183,74601,74834,74916,75014,75606,75706,75942,76366,76605,76699,76788,77025,78948,79190,81244,90545,91812,101223,102504,103040,103370,104493,104749,104985,105532,106026,106631,106779,107367,107931,108306,108424,108962,109119,109263,109583,109839,110009,110150,110214,110496,110782,111458,111722,112060,112413,112507,112693,112999,113261,113386,113513,113752,113963,114082,114275,114730,114911,115033,115292,115405,115592,115694,116138,116262,116547,117055,117551,118438,118732,119302,120034,120206,120542,121450,121728,127698,130638,130700,131278,131862,131948,132061,132290,132450,132602,132773,132940,133183,133353,133526,133697,133971,134170,134375,134705,134913,135009,135105,135203,135303,135405,135507,135609,135711,135813,135913,136009,136121,136250,136373,136527,136681,136779,136893,136987,137127,137261,137357,137469,137569,137685,137781,137893,138033,138169,138333,138463,138621,138771,138912,139056,139191,139303,139431,139567,139709,139851,139963,140103,141532,141605,141679,141752,141826,141972,142116,142254,142320,142410,142486,142590,142680,142782,142890,142998,143098,143178,143270,143368,143478,143556,143662,143754,143858,143968,144090,144253,144410,145853,145953,146043,146153,146245,146345,146457,146571,146687,146803,146897,147011,147123,147225,147345,147467,147549,147653,147773,147899,147997,148091,148179,148291,148407,148529,148641,148816,148932,149018,149110,149222,149346,149413,149539,149607,149735,149879,150007,150076,150171,150286,150399,150498,150607,150718,150829,150930,151035,151147,151277,151368,151491,151603,151689,151793,151901,152001,152119,152223,152327,152453,152541,152649,152749,152839,152949,153033,153117,153171,153235,153341,153451,153535,153655"
+                    }
+                },
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "180,181,182,183,184,185,186,187,188,189,421,422,423,424,425,426,427,428,429,430,431,432,433,434,435,436,437,438,439,440,441,442,443,444,445,446,447,448,449,487,491,494,527,528,530,566,1541,1805,1808,1809,1812,1815,1818,1822,1867,1870,1875,1878,1883,1887,1991,1995,2001,2005,2008,2017,2023,2026,2036,2040",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "9051,9132,9196,9262,9332,9402,9472,9542,9609,9679,51750,51804,51871,51941,51997,52048,52101,52153,52207,52270,52329,52391,52450,52510,52573,52648,52720,52791,52847,52918,52975,53032,53098,53162,53233,53290,53343,53406,53458,55646,55875,56049,58205,58350,58521,60753,121733,140108,140309,140401,140581,140750,140925,141178,144415,144569,144927,145094,145464,145624,153660,153878,154276,154483,154642,155209,155570,155699,156443,156623",
+                        "endLines": "180,181,182,183,184,185,186,187,188,189,421,422,423,424,425,426,427,428,429,430,431,432,433,434,435,436,437,438,439,440,441,442,443,444,445,446,447,448,449,487,491,494,527,528,530,569,1550,1807,1808,1811,1814,1817,1821,1826,1869,1874,1877,1882,1886,1890,1994,2000,2004,2007,2016,2022,2025,2035,2039,2045",
+                        "endColumns": "80,63,65,69,69,69,69,66,69,70,53,66,69,55,50,52,51,53,62,58,61,58,59,62,74,71,70,55,70,56,56,65,63,70,56,52,62,51,57,47,61,62,144,120,86,12,12,12,91,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "9127,9191,9257,9327,9397,9467,9537,9604,9674,9745,51799,51866,51936,51992,52043,52096,52148,52202,52265,52324,52386,52445,52505,52568,52643,52715,52786,52842,52913,52970,53027,53093,53157,53228,53285,53338,53401,53453,53511,55689,55932,56107,58345,58466,58603,61035,122319,140304,140396,140576,140745,140920,141173,141464,144564,144922,145089,145459,145619,145773,153873,154271,154478,154637,155204,155565,155694,156438,156618,157059"
+                    }
+                },
+                {
+                    "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "156,559,570,571,606,1559,1562,1569,1576,1586,1591,1592,1593,1594,1595,1598,1746,2046",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "7602,60257,61040,61130,63420,122642,122800,123130,123482,123994,124258,124308,124397,124449,124528,124694,134710,157064",
+                        "endLines": "156,561,570,571,614,1561,1568,1575,1585,1590,1591,1592,1593,1594,1597,1601,1748,2051",
+                        "endColumns": "42,12,89,79,12,12,12,12,12,12,49,88,51,78,12,12,12,12",
+                        "endOffsets": "7640,60396,61125,61205,63907,122795,123125,123477,123989,124253,124303,124392,124444,124523,124689,124898,134829,157440"
+                    }
+                },
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/42dd3214488beac5fe7bcf0f23ddd473/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,11,12,13,14,16,22,23,24,25,28,29,32,35,36,37,38,39,42,45,46,47,48,53,56,59,60,61,66,67,68,71,74,75,78,81,84,87,88,91,94,95,100,101,106,109,112,113,114,115,116,117,118,119,120,121",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,116,407,455,507,568,669,890,951,1011,1081,1214,1282,1411,1537,1599,1664,1732,1799,1922,2047,2114,2179,2244,2425,2546,2667,2733,2800,3010,3079,3145,3270,3396,3463,3589,3716,3841,3968,4033,4159,4282,4347,4555,4622,4802,4922,5042,5107,5169,5231,5293,5352,5412,5473,5534,5593",
+                        "endLines": "2,10,11,12,13,14,19,22,23,24,27,28,31,34,35,36,37,38,41,44,45,46,47,52,55,58,59,60,65,66,67,70,73,74,77,80,83,86,87,90,93,94,99,100,105,108,111,112,113,114,115,116,117,118,119,120,128",
+                        "endColumns": "60,11,47,51,60,45,11,60,59,69,11,67,11,11,61,64,67,66,11,11,66,64,64,11,11,11,65,66,11,68,65,11,11,66,11,11,11,11,64,11,11,64,11,66,11,11,11,64,61,61,61,58,59,60,60,58,11",
+                        "endOffsets": "111,402,450,502,563,609,791,946,1006,1076,1209,1277,1406,1532,1594,1659,1727,1794,1917,2042,2109,2174,2239,2420,2541,2662,2728,2795,3005,3074,3140,3265,3391,3458,3584,3711,3836,3963,4028,4154,4277,4342,4550,4617,4797,4917,5037,5102,5164,5226,5288,5347,5407,5468,5529,5588,5889"
+                    }
+                },
+                {
+                    "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "142,143,144,147,148,149,154,155,157,158,159,172,173,174,175,176,177,178,179,194,195,196,197,200,201,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,240,241,242,243,244,245,246,247,248,249,250,259,260,261,262,269,270,271,272,277,278,279,280,281,282,283,284,285,286",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "6761,6802,6847,7047,7096,7136,7500,7550,7645,7695,7734,8668,8714,8768,8821,8867,8906,8952,8998,10030,10069,10107,10159,10357,10397,10786,10832,10885,10936,10988,11041,11090,11142,11194,11247,11298,11351,11405,11453,11501,11552,11609,11650,11698,11743,11789,11828,12552,12590,12633,12674,12720,12776,12815,12868,12910,12956,13002,13637,13678,13716,13762,14214,14265,14318,14372,14717,14756,14808,14851,14903,14951,15003,15057,15127,15167",
+                        "endColumns": "40,44,44,48,39,44,49,51,49,38,43,45,53,52,45,38,45,45,52,38,37,51,52,39,43,45,52,50,51,52,48,51,51,52,50,52,53,47,47,50,56,40,47,44,45,38,51,37,42,40,45,55,38,52,41,45,45,46,40,37,45,40,50,52,53,58,38,51,42,51,47,51,53,69,39,40",
+                        "endOffsets": "6797,6842,6887,7091,7131,7176,7545,7597,7690,7729,7773,8709,8763,8816,8862,8901,8947,8993,9046,10064,10102,10154,10207,10392,10436,10827,10880,10931,10983,11036,11085,11137,11189,11242,11293,11346,11400,11448,11496,11547,11604,11645,11693,11738,11784,11823,11875,12585,12628,12669,12715,12771,12810,12863,12905,12951,12997,13044,13673,13711,13757,13798,14260,14313,14367,14426,14751,14803,14846,14898,14946,14998,15052,15122,15162,15203"
+                    }
+                },
+                {
+                    "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/values/integers.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "493,495,496,497",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55997,56112,56170,56220",
+                        "endColumns": "51,57,49,58",
+                        "endOffsets": "56044,56165,56215,56274"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-nl_values-nl.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-nl/values-nl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,173,281,404,509,616,702,810,930,1007,1084,1166,1277,1381,1480,1595,1708,1811,1929,2032",
+                        "endColumns": "117,107,122,104,106,85,107,119,76,76,81,110,103,98,114,112,102,117,102,100",
+                        "endOffsets": "168,276,399,504,611,697,805,925,1002,1079,1161,1272,1376,1475,1590,1703,1806,1924,2027,2128"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-ca_values-ca.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-ca/values-ca.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,173,281,404,510,617,700,808,934,1018,1099,1182,1293,1402,1500,1610,1714,1822,1945,2044",
+                        "endColumns": "117,107,122,105,106,82,107,125,83,80,82,110,108,97,109,103,107,122,98,100",
+                        "endOffsets": "168,276,399,505,612,695,803,929,1013,1094,1177,1288,1397,1495,1605,1709,1817,1940,2039,2140"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-in_values-in.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-in/values-in.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,165,273,396,498,603,690,794,910,992,1071,1157,1260,1369,1470,1574,1682,1790,1913,2012",
+                        "endColumns": "109,107,122,101,104,86,103,115,81,78,85,102,108,100,103,107,107,122,98,100",
+                        "endOffsets": "160,268,391,493,598,685,789,905,987,1066,1152,1255,1364,1465,1569,1677,1785,1908,2007,2108"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-fr_values-fr.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-fr/values-fr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,166,274,397,512,623,705,811,941,1024,1104,1190,1300,1412,1515,1626,1733,1840,1962,2061",
+                        "endColumns": "110,107,122,114,110,81,105,129,82,79,85,109,111,102,110,106,106,121,98,100",
+                        "endOffsets": "161,269,392,507,618,700,806,936,1019,1099,1185,1295,1407,1510,1621,1728,1835,1957,2056,2157"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-is-rIS_values-is-rIS.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-is-rIS/values-is-rIS.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,155,263,386,483,595,680,781,895,975,1055,1136,1246,1354,1452,1561,1660,1763,1881,1979",
+                        "endColumns": "99,107,122,96,111,84,100,113,79,79,80,109,107,97,108,98,102,117,97,100",
+                        "endOffsets": "150,258,381,478,590,675,776,890,970,1050,1131,1241,1349,1447,1556,1655,1758,1876,1974,2075"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-mk-rMK_values-mk-rMK.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-mk-rMK/values-mk-rMK.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,286,390,498,584,689,808,891,973,1060,1166,1273,1374,1481,1592,1696,1794",
+                        "endColumns": "107,122,103,107,85,104,118,82,81,86,105,106,100,106,110,103,97,100",
+                        "endOffsets": "158,281,385,493,579,684,803,886,968,1055,1161,1268,1369,1476,1587,1691,1789,1890"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-da_values-da.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-da/values-da.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,266,389,488,600,683,783,896,973,1050,1129,1238,1346,1442,1556,1658,1759,1875,1972",
+                        "endColumns": "102,107,122,98,111,82,99,112,76,76,78,108,107,95,113,101,100,115,96,100",
+                        "endOffsets": "153,261,384,483,595,678,778,891,968,1045,1124,1233,1341,1437,1551,1653,1754,1870,1967,2068"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-ml-rIN_values-ml-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-ml-rIN/values-ml-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,174,282,405,523,639,732,837,969,1046,1122,1204,1315,1421,1519,1633,1734,1845,1973,2074",
+                        "endColumns": "118,107,122,117,115,92,104,131,76,75,81,110,105,97,113,100,110,127,100,100",
+                        "endOffsets": "169,277,400,518,634,727,832,964,1041,1117,1199,1310,1416,1514,1628,1729,1840,1968,2069,2170"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-sr_values-sr.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-sr/values-sr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,164,272,395,498,604,690,794,912,993,1073,1161,1266,1374,1475,1579,1687,1788,1916,2013",
+                        "endColumns": "108,107,122,102,105,85,103,117,80,79,87,104,107,100,103,107,100,127,96,100",
+                        "endOffsets": "159,267,390,493,599,685,789,907,988,1068,1156,1261,1369,1470,1574,1682,1783,1911,2008,2109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-hr_values-hr.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-hr/values-hr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,160,268,391,488,598,684,788,907,991,1074,1160,1264,1377,1483,1588,1701,1808,1931,2028",
+                        "endColumns": "104,107,122,96,109,85,103,118,83,82,85,103,112,105,104,112,106,122,96,100",
+                        "endOffsets": "155,263,386,483,593,679,783,902,986,1069,1155,1259,1372,1478,1583,1696,1803,1926,2023,2124"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-cs_values-cs.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-cs/values-cs.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,162,271,395,497,606,692,797,914,995,1076,1160,1264,1373,1472,1578,1688,1795,1917,2015",
+                        "endColumns": "106,108,123,101,108,85,104,116,80,80,83,103,108,98,105,109,106,121,97,100",
+                        "endOffsets": "157,266,390,492,601,687,792,909,990,1071,1155,1259,1368,1467,1573,1683,1790,1912,2010,2111"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-km-rKH_values-km-rKH.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-km-rKH/values-km-rKH.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,266,389,489,601,688,792,910,987,1064,1147,1251,1356,1456,1566,1673,1781,1904,2002",
+                        "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,100",
+                        "endOffsets": "153,261,384,484,596,683,787,905,982,1059,1142,1246,1351,1451,1561,1668,1776,1899,1997,2098"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-h720dp-v13_values-h720dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-zh-rTW_values-zh-rTW.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,150,257,380,473,573,655,752,860,936,1012,1090,1186,1282,1377,1474,1569,1669,1782,1876",
+                        "endColumns": "94,106,122,92,99,81,96,107,75,75,77,95,95,94,96,94,99,112,93,100",
+                        "endOffsets": "145,252,375,468,568,650,747,855,931,1007,1085,1181,1277,1372,1469,1564,1664,1777,1871,1972"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-night-v8_values-night-v8.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "120,204,288,384,486,588,682"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-es_values-es.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-es/values-es.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,172,280,403,516,624,709,810,938,1014,1090,1172,1279,1379,1478,1586,1693,1800,1922,2022",
+                        "endColumns": "116,107,122,112,107,84,100,127,75,75,81,106,99,98,107,106,106,121,99,100",
+                        "endOffsets": "167,275,398,511,619,704,805,933,1009,1085,1167,1274,1374,1473,1581,1688,1795,1917,2017,2118"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-ar_values-ar.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-ar/values-ar.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,172,280,403,507,616,698,799,913,992,1071,1150,1255,1356,1452,1560,1663,1766,1885,1982",
+                        "endColumns": "116,107,122,103,108,81,100,113,78,78,78,104,100,95,107,102,102,118,96,100",
+                        "endOffsets": "167,275,398,502,611,693,794,908,987,1066,1145,1250,1351,1447,1555,1658,1761,1880,1977,2078"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-w600dp-v13_values-w600dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-w600dp-v13/values-w600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,119",
+                        "endColumns": "63,54",
+                        "endOffsets": "114,169"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-it_values-it.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-it/values-it.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,164,272,395,495,604,688,797,922,999,1075,1156,1262,1370,1468,1572,1677,1784,1906,2006",
+                        "endColumns": "108,107,122,99,108,83,108,124,76,75,80,105,107,97,103,104,106,121,99,100",
+                        "endOffsets": "159,267,390,490,599,683,792,917,994,1070,1151,1257,1365,1463,1567,1672,1779,1901,2001,2102"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-ko_values-ko.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-ko/values-ko.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,150,258,381,475,577,659,757,863,942,1018,1098,1196,1291,1386,1486,1582,1681,1796,1890",
+                        "endColumns": "94,107,122,93,101,81,97,105,78,75,79,97,94,94,99,95,98,114,93,100",
+                        "endOffsets": "145,253,376,470,572,654,752,858,937,1013,1093,1191,1286,1381,1481,1577,1676,1791,1885,1986"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-hdpi-v4_values-hdpi-v4.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-pt-rPT_values-pt-rPT.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-pt-rPT/values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,175,283,406,512,619,708,809,933,1017,1098,1185,1292,1404,1506,1614,1721,1828,1950,2049",
+                        "endColumns": "119,107,122,105,106,88,100,123,83,80,86,106,111,101,107,106,106,121,98,100",
+                        "endOffsets": "170,278,401,507,614,703,804,928,1012,1093,1180,1287,1399,1501,1609,1716,1823,1945,2044,2145"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-bg_values-bg.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-bg/values-bg.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,170,281,409,516,621,707,812,933,1012,1090,1173,1287,1396,1496,1610,1716,1824,1947,2046",
+                        "endColumns": "114,110,127,106,104,85,104,120,78,77,82,113,108,99,113,105,107,122,98,100",
+                        "endOffsets": "165,276,404,511,616,702,807,928,1007,1085,1168,1282,1391,1491,1605,1711,1819,1942,2041,2142"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-xlarge-v4_values-xlarge-v4.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,132,203,274,344,414,482,550,614",
+                        "endColumns": "76,70,70,69,69,67,67,63,54",
+                        "endOffsets": "127,198,269,339,409,477,545,609,664"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-ne-rNP_values-ne-rNP.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-ne-rNP/values-ne-rNP.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,160,268,391,495,603,694,801,928,1022,1112,1200,1310,1426,1529,1644,1746,1861,1992,2104",
+                        "endColumns": "104,107,122,103,107,90,106,126,93,89,87,109,115,102,114,101,114,130,111,100",
+                        "endOffsets": "155,263,386,490,598,689,796,923,1017,1107,1195,1305,1421,1524,1639,1741,1856,1987,2099,2200"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-lo-rLA_values-lo-rLA.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-lo-rLA/values-lo-rLA.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,266,389,486,593,678,783,895,972,1050,1130,1237,1334,1432,1537,1640,1744,1866,1962",
+                        "endColumns": "102,107,122,96,106,84,104,111,76,77,79,106,96,97,104,102,103,121,95,100",
+                        "endOffsets": "153,261,384,481,588,673,778,890,967,1045,1125,1232,1329,1427,1532,1635,1739,1861,1957,2058"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-en-rGB_values-en-rGB.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-en-rGB/values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,267,390,490,598,682,782,897,974,1050,1132,1235,1339,1438,1543,1646,1750,1869,1969",
+                        "endColumns": "103,107,122,99,107,83,99,114,76,75,81,102,103,98,104,102,103,118,99,100",
+                        "endOffsets": "154,262,385,485,593,677,777,892,969,1045,1127,1230,1334,1433,1538,1641,1745,1864,1964,2065"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-kk-rKZ_values-kk-rKZ.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-kk-rKZ/values-kk-rKZ.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,167,275,398,501,611,696,802,921,1002,1082,1163,1266,1371,1469,1576,1685,1785,1900,1999",
+                        "endColumns": "111,107,122,102,109,84,105,118,80,79,80,102,104,97,106,108,99,114,98,100",
+                        "endOffsets": "162,270,393,496,606,691,797,916,997,1077,1158,1261,1366,1464,1571,1680,1780,1895,1994,2095"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-h320dp-v13_values-h320dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-h320dp-v13/values-h320dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-ldltr-v21_values-ldltr-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/values-sl_values-sl.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-sl/values-sl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,162,270,393,500,608,695,798,917,1002,1086,1170,1278,1387,1487,1600,1707,1811,1928,2025",
+                        "endColumns": "106,107,122,106,107,86,102,118,84,83,83,107,108,99,112,106,103,116,96,100",
+                        "endOffsets": "157,265,388,495,603,690,793,912,997,1081,1165,1273,1382,1482,1595,1702,1806,1923,2020,2121"
+                    }
+                }
+            ]
+        }
+    ]
+}

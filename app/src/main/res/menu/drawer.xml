@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:checked="true"
+            android:icon="@drawable/ic_person_outline_blue"
+            android:title="Profile" />
+        <item
+            android:id="@+id/my_cart"
+            android:icon="@drawable/ic_shopping_cart_blue"
+            android:title="My Cart" />
+
+        <item
+            android:id="@+id/apriori_result"
+            android:icon="@drawable/ic_graphic_eq_blue"
+            android:title="Graph" />
+        <item
+            android:id="@+id/myorder"
+            android:icon="@drawable/ic_order_black_24dp"
+            android:title="My Order" />
+
+        <item
+            android:id="@+id/contact_us"
+            android:icon="@drawable/ic_help_outline_black_24dp"
+            android:title="Help" />
+        <item
+            android:id="@+id/settings"
+            android:icon="@drawable/ic_info_outline_black_24dp"
+            android:title="About App" />
+    </group>
+
+</menu>

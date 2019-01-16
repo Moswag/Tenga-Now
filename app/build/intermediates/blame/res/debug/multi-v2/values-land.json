@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,117,189,259,323,394",
+                        "endColumns": "61,71,69,63,70,67",
+                        "endOffsets": "112,184,254,318,389,457"
+                    }
+                },
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "570",
+                        "endLines": "13",
+                        "endColumns": "12",
+                        "endOffsets": "747"
+                    }
+                },
+                {
+                    "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/values-land/dimens.xml",
+                    "from": {
+                        "startLines": "10,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "377,433",
+                        "endColumns": "54,52",
+                        "endOffsets": "427,481"
+                    },
+                    "to": {
+                        "startLines": "8,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "462,517",
+                        "endColumns": "54,52",
+                        "endOffsets": "512,565"
+                    }
+                }
+            ]
+        }
+    ]
+}

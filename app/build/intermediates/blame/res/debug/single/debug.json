@@ -1,0 +1,1962 @@
+[
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_slide_in_up.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/anim/slide_in_up.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_fade_in.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_design_navigation_menu_item.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_order_black_24dp.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_order_black_24dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/color_switch_thumb_material_dark.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxxhdpi-v4/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_toolbar_spinner.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/layout/toolbar_spinner.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_frag_about.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/layout/frag_about.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_top_material.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_frag_search_product.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/layout/frag_search_product.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_design_navigation_item_separator.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_layout.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_slide_left.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/anim/slide_left.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_slide_out_up.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/anim/slide_out_up.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/color_switch_thumb_material_light.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_connection_dialog.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/layout/connection_dialog.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_slide_out_left.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/color_abc_primary_text_material_dark.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_graphic_eq_blue.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_graphic_eq_blue.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_drawer.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable-xhdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_person_outline_blue.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_person_outline_blue.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi_app_icon.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable-mdpi/app_icon.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_app_name_animation.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/anim/app_name_animation.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_person_outline_blue.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-hdpi/ic_person_outline_blue.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_slide_up_right.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/anim/slide_up_right.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_abc_slide_out_bottom.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_indicator_selected.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable/indicator_selected.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_design_menu_item_action_area.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_info_outline_black_24dp.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_info_outline_black_24dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout-sw600dp-v13_design_layout_snackbar.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_abc_btn_check_material.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_person_outline_blue.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_person_outline_blue.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_abc_switch_thumb_material.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-v21_abc_edit_text_material.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_rounder_rectangle_visa_card.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable/rounder_rectangle_visa_card.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_graphic_eq_blue.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-ldpi/ic_graphic_eq_blue.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_base_slide_left_out.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/anim/base_slide_left_out.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_above_shadow.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable/above_shadow.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_design_fab_background.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_app_name_animation_back.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/anim/app_name_animation_back.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_select_dialog_multichoice_material.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_logo_animation_back.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/anim/logo_animation_back.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_notification_template_big_media.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_abc_dialog_material_background_light.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim-v21_design_bottom_sheet_slide_out.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_abc_action_bar_up_container.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_person_outline_blue.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-ldpi/ic_person_outline_blue.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_toolbar_transparent.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/layout/toolbar_transparent.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi_app_icon.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable-xxhdpi/app_icon.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-ldrtl-xhdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_relk.jpeg.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable/relk.jpeg"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_default_out_anim.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/anim/default_out_anim.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_select_dialog_item_material.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_toolbar_w_shadow.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/layout/toolbar_w_shadow.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_design_layout_snackbar_include.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_abc_edit_text_material.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_notification_template_lines.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_icon.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_abc_expanded_menu_layout.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi_app_icon.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable-hdpi/app_icon.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_view_bottom_anchor.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/layout/view_bottom_anchor.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_abc_popup_enter.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_design_navigation_item_header.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_shadow.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable/shadow.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_slide_up.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_design_fab_in.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_slide_up_left.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/anim/slide_up_left.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_info_outline_black_24dp.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-ldpi/ic_info_outline_black_24dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_food.jpg.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable/food.jpg"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_shopping_cart_blue.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-mdpi/ic_shopping_cart_blue.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_design_layout_tab_text.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxxhdpi-v4/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_no_items_found.jpg.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable/no_items_found.jpg"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_help_outline_black_24dp.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-ldpi/ic_help_outline_black_24dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_ico_mic.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable/ico_mic.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi_cart.jpg.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable-hdpi/cart.jpg"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-v21_ripple_accent.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable-v21/ripple_accent.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_abc_slide_in_top.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_full_material.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_myorderitem.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/layout/myorderitem.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_shopping_cart_blue.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-ldpi/ic_shopping_cart_blue.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_abc_action_bar_title_item.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_search.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable-mdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_indicator_unselected.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable/indicator_unselected.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_light.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_meal.jpg.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable/meal.jpg"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_activity_apriori_result.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/layout/activity_apriori_result.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_frag_product_list_fragment.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/layout/frag_product_list_fragment.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-v21_ripple.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable-v21/ripple.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_help_outline_black_24dp.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-mdpi/ic_help_outline_black_24dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_shopping_cart_blue.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_shopping_cart_blue.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_background_round_corner_button.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable/background_round_corner_button.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_shopping_cart_blue.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_shopping_cart_blue.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_abc_tab_indicator_material.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_abc_btn_colored_material.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_order_black_24dp.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_order_black_24dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/color_abc_search_url_text.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/menu_menu_main.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_base_slide_right_in.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/anim/base_slide_right_in.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/xml_changelog.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/xml/changelog.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_track_material.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_search.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable-xhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_person_outline_blue.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-mdpi/ic_person_outline_blue.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_abc_select_dialog_material.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_abc_text_cursor_material.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_design_navigation_item_subheader.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_graphic_eq_blue.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_graphic_eq_blue.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_order_black_24dp.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-mdpi/ic_order_black_24dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_design_fab_out.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_abc_action_mode_bar.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_logo_animation.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/anim/logo_animation.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_info_outline_black_24dp.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_info_outline_black_24dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_item_product_list.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/layout/item_product_list.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_abc_textfield_search_material.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_radio.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_activity_ecart.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/layout/activity_ecart.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_abc_dialog_material_background_dark.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_btn_feed_action.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable/btn_feed_action.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi_app_icon.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_to_middle.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/anim/to_middle.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_slide_in_left.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim-v21_design_bottom_sheet_slide_in.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-ldrtl-xxhdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_design_layout_tab_icon.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_graphic_eq_blue.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-hdpi/ic_graphic_eq_blue.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_abc_btn_radio_material.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_background_round_corner_edittext.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable/background_round_corner_edittext.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_design_snackbar_background.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_graphic_eq_blue.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_graphic_eq_blue.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_design_navigation_menu.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_round_text_remove_item.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable/round_text_remove_item.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_drawer.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable-xxxhdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_design_layout_snackbar.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_abc_btn_borderless_material.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-ldrtl-mdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_abc_action_menu_layout.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/menu_menu_apriori.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/menu/menu_apriori.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_help_outline_black_24dp.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_help_outline_black_24dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_person_outline_blue.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_person_outline_blue.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_help_outline_black_24dp.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_help_outline_black_24dp.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-ldrtl-hdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_abc_action_bar_view_list_nav_layout.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/color-v11_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_info_outline_black_24dp.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-hdpi/ic_info_outline_black_24dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_abc_fade_in.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_slide_down.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable/slide_down.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_info_outline_black_24dp.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-mdpi/ic_info_outline_black_24dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_toolbar.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-nodpi_nav_header_bg.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable-nodpi/nav_header_bg.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_notification_media_cancel_action.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_info_outline_black_24dp.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_info_outline_black_24dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_design_snackbar_in.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_search.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable-xxhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-v21_abc_btn_colored_material.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_simple_grow.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/anim/simple_grow.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_info_outline_black_24dp.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_info_outline_black_24dp.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_shopping_cart_blue.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_shopping_cart_blue.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_activity_view_my_order.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/layout/activity_view_my_order.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_order_black_24dp.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-ldpi/ic_order_black_24dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_help_outline_black_24dp.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-hdpi/ic_help_outline_black_24dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_slide_right.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/anim/slide_right.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_below_shadow.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable/below_shadow.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_graphic_eq_blue.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-mdpi/ic_graphic_eq_blue.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-v21_abc_action_bar_item_background_material.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_foodtran.jpg.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable/foodtran.jpg"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_slide_out_right.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_thumb_material.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_pro_animation_back.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/anim/pro_animation_back.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_help_outline_black_24dp.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_help_outline_black_24dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_green_g_plus_button.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable/green_g_plus_button.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/color_abc_secondary_text_material_light.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_frag_product_category.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/layout/frag_product_category.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/color_abc_primary_text_material_light.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_abc_dialog_title_material.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_activity_register.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_frag_settings.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/layout/frag_settings.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_mealgif.gif.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable/mealgif.gif"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_from_middle.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/anim/from_middle.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_ic_add_shopping_cart.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable/ic_add_shopping_cart.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_checkout_button.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable/checkout_button.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_order_black_24dp.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_order_black_24dp.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_grow_color.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/anim/grow_color.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_donot_move.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/anim/donot_move.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_abc_action_menu_item_layout.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_drawer.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable-mdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_abc_popup_exit.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_drawer.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable-xxhdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_material.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_drawer.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable-hdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_drawer_header.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/layout/drawer_header.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_abc_fade_out.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_fragment_my_order.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/layout/fragment_my_order.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_img_circle_placeholder.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable/img_circle_placeholder.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_frag_my_cart.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/layout/frag_my_cart.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_abc_screen_content_include.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_abc_screen_simple.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_round_text_add_item.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable/round_text_add_item.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-v23_abc_control_background_material.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_help_outline_black_24dp.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_help_outline_black_24dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_activity_update_order_status.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/layout/activity_update_order_status.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_design_navigation_item.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_abc_screen_toolbar.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_fade_out.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_simplecircle.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable/simplecircle.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_small_material.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_indicator_material.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/menu_drawer.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/menu/drawer.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_design_bottom_sheet_slide_out.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_item_category_list.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/layout/item_category_list.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_order_black_24dp.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-hdpi/ic_order_black_24dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_design_bottom_sheet_slide_in.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_design_bottom_sheet_dialog.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/color_abc_secondary_text_material_dark.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_pro_animation.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/anim/pro_animation.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/color-v23_abc_color_highlight_material.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_shopping_cart_blue.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-hdpi/ic_shopping_cart_blue.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_slide_down.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_design_snackbar_out.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/0ad3f85e7f7bf718f6b6af2addc586bb/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_shrink_color.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/anim/shrink_color.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_search.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_frag_category_details.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/layout/frag_category_details.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_order_black_24dp.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_order_black_24dp.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_action_search.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable-xxxhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_slide_in_right.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_view_show_similar.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/layout/view_show_similar.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_person_outline_blue.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_person_outline_blue.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_shopping_cart_blue.png.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_shopping_cart_blue.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_abc_slide_in_bottom.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable_round_text_cart_item.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/drawable/round_text_cart_item.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_frag_product_detail.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/src/main/res/layout/frag_product_detail.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/anim_abc_slide_out_top.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_graphic_eq_blue.xml.flat",
+        "source": "/cytex/AndroidStudioProjects/Restaurant/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_graphic_eq_blue.xml"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/drawable-mdpi-v4/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/res/merged/debug/layout_abc_search_view.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b820609ce980e4ec336d43844e858273/res/layout/abc_search_view.xml"
+    }
+]

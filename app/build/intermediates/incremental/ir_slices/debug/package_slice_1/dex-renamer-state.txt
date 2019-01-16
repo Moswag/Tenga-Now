@@ -1,0 +1,4 @@
+#Wed Jan 16 15:32:18 EST 2019
+base.0=/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex
