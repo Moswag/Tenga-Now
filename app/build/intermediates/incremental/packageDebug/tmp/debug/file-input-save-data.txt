@@ -1,15 +1,31 @@
 #Internal package file, do not edit.
-#Wed Jan 16 15:34:25 EST 2019
-1.base=/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
-2.path=classes.dex
-0.baseType=DIRECTORY
-2.base=/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/transforms/dexMerger/debug/0
-2.set=DEX
-1.baseType=DIRECTORY
-count=3
-1.set=ASSET
-0.path=font/DS-DIGIT.TTF
-0.set=ASSET
-0.base=/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+#Wed Jan 16 15:51:14 EST 2019
+2.base=/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+5.set=ASSET
+0.path=font/BPG_Glaho_Arial_V5_big.ttf
 2.baseType=DIRECTORY
-1.path=font/CircleD_Font_by_CrazyForMusic.ttf
+3.base=/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/transforms/dexMerger/debug/0
+2.set=ASSET
+1.path=font/DS-DIGIT.TTF
+4.base=/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+count=7
+5.baseType=DIRECTORY
+2.path=font/CircleD_Font_by_CrazyForMusic.ttf
+5.base=/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+4.set=ASSET
+3.path=classes.dex
+6.base=/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=font/ARIALI.TTF
+6.set=ASSET
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=font/Chunkfive.otf
+0.base=/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+0.baseType=DIRECTORY
+3.set=DEX
+6.path=font/Kruti_Dev_090__Bold.ttf
+1.base=/cytex/AndroidStudioProjects/Restaurant/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+4.baseType=DIRECTORY
+0.set=ASSET
